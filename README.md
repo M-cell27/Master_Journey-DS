@@ -16,8 +16,8 @@ This course will teach the fundamentals of data structures and algorithms with a
         💡 Dynamic Programming, Greedy Algorithms: Master optimization techniques for data problem-solving.
 
 ### 🌟 **Vital Skills for Data Scientists (4 credits)**  
-Gain Exposure to Key Data Science Areas . Gain professional knowledge in the field of Data Science and learn applicable skills in Cybersecurity and Ethics.
-[Link to Course](https://www.coursera.org/specializations/vital-skills-for-data-science?)
+Gain Exposure to Key Data Science Areas . Gain professional knowledge in the field of Data Science and learn applicable skills in Cybersecurity and Ethics.                         
+[Link to Course](https://www.coursera.org/specializations/vital-skills-for-data-science?)                  
 
         📈 Data Science as a Field: Gain insights into the evolving landscape of data science.
         🔍 Ethical Issues in Data Science: Delve into the ethical considerations that guide data-driven decision-making.
@@ -25,30 +25,33 @@ Gain Exposure to Key Data Science Areas . Gain professional knowledge in the fie
         📊 Fundamentals of Data Visualization: Learn the art of effective data storytelling.
 
 ### 📊 **Data Mining Foundations and Practice Specialization (3 credits)**
-Gain Exposure to Key Data Science Areas . Gain professional knowledge in the field of Data Science and learn applicable skills in Cybersecurity and Ethics.
-[Link to Course](https://www.coursera.org/specializations/data-mining-foundations-practice)
+Gain Exposure to Key Data Science Areas . Gain professional knowledge in the field of Data Science and learn applicable skills in Cybersecurity and Ethics.                        
+[Link to Course](https://www.coursera.org/specializations/data-mining-foundations-practice)                 
 
         📈 Data Mining Pipeline
         📊 Data Mining Methods
         📋 Data Mining Project
 
 ### 🤖 **Machine Learning: Theory and Hands-on Practice with Python Specialization (3 credits)**
-Develop Foundational Machine Learning Skills. Add Supervised, Unsupervised, and Deep Learning techniques to your Data Science toolkit.
-[Link to Course](https://www.coursera.org/specializations/machine-learnin-theory-and-hands-on-practice-with-pythong-cu)
+Develop Foundational Machine Learning Skills. Add Supervised, Unsupervised, and Deep Learning techniques to your Data Science toolkit.                                                  
+[Link to Course](https://www.coursera.org/specializations/machine-learnin-theory-and-hands-on-practice-with-pythong-cu)     
+
         🧠 Introduction to Machine Learning: Supervised Learning
         🧩 Unsupervised Algorithms in Machine Learning
         🌟 Introduction to Deep Learning
 
 ### 📈 **Statistical Modeling for Data Science Applications Specialization (3 credits)**
-Build Your Statistical Skills for Data Science. Master the Statistics Necessary for Data Science
-[Link to Course](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications)
+Build Your Statistical Skills for Data Science. Master the Statistics Necessary for Data Science            
+[Link to Course](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications)  
+
         📊 Modern Regression Analysis in R
         📈 ANOVA and Experimental Design
         📉 Generalized Linear Models and Nonparametric Regression
 
 ### 💾 **Databases for Data Scientists Specialization (2 credits)**
-All about Databases for Data Scientists. Learn to design and create efficient and effective relational databases, fill them with data, and work with them using SQL.
-[Link to Course](https://www.coursera.org/specializations/databases-for-data-scientists?specialization=effective-business-communication)
+All about Databases for Data Scientists. Learn to design and create efficient and effective relational databases, fill them with data, and work with them using SQL.                          
+[Link to Course](https://www.coursera.org/specializations/databases-for-data-scientists?specialization=effective-business-communication)                                   
+
         🏗️ Relational Database Design
         📜 The Structured Query Language (SQL)
         🚀 Advanced Topics and Future Trends in Database Technologies (elective)
